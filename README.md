@@ -26,9 +26,9 @@
 
 * 主畫面 ( Player )
 
-[image!](https://github.com/JeremyXue77/Music-Player-AVPlayer-/blob/master/Player.png)
+![image](https://github.com/JeremyXue77/Music-Player-AVPlayer-/blob/master/Player.png)
 
 * 播放清單 ( Playlist )
 
-[image!](https://github.com/JeremyXue77/Music-Player-AVPlayer-/blob/master/Playlist.png)
+![image](https://github.com/JeremyXue77/Music-Player-AVPlayer-/blob/master/Playlist.png)
 
